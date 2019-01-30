@@ -1,0 +1,7 @@
+Add  Add contents of two registers
+sub  Subtract contents of two registers
+addi  Add signed constant
+addu   Add Unsigned, no overflow
+subu  sub Unsigned, no overflow
+lw  Load word from memory
+sw  Store Word in memory
